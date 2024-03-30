@@ -1,5 +1,3 @@
-## **Всем привет! :)**
-
 ## Проект - [e-commerce](https://github.com/S1lencena/Data-analyst-projects/blob/main/first_project_var_1.ipynb)
 
 ## Дана некоторая платформа онлайн продаж, с которой выгружены следующие данные:
